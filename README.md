@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taymhe
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in DATASCIENCE
+- 🌱 I’m currently in the learning process of being a DATA SCIENTIST 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
